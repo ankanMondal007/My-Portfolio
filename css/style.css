@@ -38,6 +38,7 @@
 	height: 250%;
 	top: 50%;
 	z-index: 5;
+	font-family: "Otomanopee One";
 	text-align: center;
 	margin-top: -125px;
 
@@ -115,6 +116,7 @@
 .squareInnerContainer:after{
 	left: 0px;
 }
+
 .squareContent h2{
 	font-size: 56px;
 	margin-bottom: 10px;
